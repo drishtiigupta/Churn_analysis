@@ -1,0 +1,24 @@
+.HomeScreenContent {
+    height: 80vh;
+    padding-top: 14vh;
+  }
+
+
+  .background-image1{
+   
+
+    background-image: url('../images/795202-telecomsector-013118.avif');
+    background-size: cover; /* Adjust as needed */
+    background-repeat: no-repeat; /* Adjust as needed */
+    width: 100%;
+    height: 1000px; /* Adjust the height as needed */
+  }
+  .background-image2{
+   
+
+    background-image: url('../images/How_Decentralized_Networks_Are_Impacting_the_Telecommunications_Industry.jpg');
+    background-size: cover; /* Adjust as needed */
+    background-repeat: no-repeat; /* Adjust as needed */
+    width: 100%;
+    height: 1000px; /* Adjust the height as needed */
+  }
